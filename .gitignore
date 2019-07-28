@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/FaviconBrowser/obj/Debug
+/FaviconBrowser/obj/Release
