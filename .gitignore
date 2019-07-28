@@ -5,3 +5,5 @@
 /.vs
 /FaviconBrowser/obj/Debug
 /FaviconBrowser/obj/Release
+/FaviconBrowser/bin
+*.user
